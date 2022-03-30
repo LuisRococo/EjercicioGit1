@@ -1,1 +1,2 @@
 walking()
+left_leg_quick_walking()
