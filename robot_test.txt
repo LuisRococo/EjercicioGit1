@@ -1,2 +1,4 @@
 walking_test()
 Test complete/!/!
+"walking_acept_test()
+User accepted the changes/!/!". 
